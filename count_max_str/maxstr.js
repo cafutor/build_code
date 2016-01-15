@@ -52,6 +52,6 @@ btn.onclick=function(){
 };
 }
 window.onload=function(){
-	//字符串中重复次数最大的字母
+	//字符串中重复次数最大的字符
 	strmax ();
 }
